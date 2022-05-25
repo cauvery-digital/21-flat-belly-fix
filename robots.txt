@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /index.html
+Allow: /
 Disallow: /blog.html
-sitemap: https://thriveagency.com/sitemap-video.xml
+sitemap: https://slim-belly-system.netlify.app/sitemap.xml
