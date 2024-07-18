@@ -42,7 +42,7 @@
 body
 {
 	font-family: 'Montserrat', sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
 	background: #FFFFFF;
 	color: #a5a5a5;
@@ -63,7 +63,7 @@ ul
 p
 {
 	font-family: 'Montserrat', sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 2;
 	font-weight: 400;
 	color: #535353;
@@ -129,7 +129,7 @@ h1{font-size: 48px;}
 h2{font-size: 36px;}
 h3{font-size: 24px;}
 h4{font-size: 18px;}
-h5{font-size: 14px;}
+h5{font-size: 16px;}
 h1, h2, h3, h4, h5, h6
 {
 	font-family: 'Montserrat', sans-serif;
@@ -1075,7 +1075,7 @@ section
 .all_posts_link a
 {
 	position: relative;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 600;
 	color: #ff9711;
 }
@@ -1274,7 +1274,7 @@ section
 .copyright
 {
 	padding-right: 15px;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 500;
 	color: #686868;
 	line-height: 0.75;
