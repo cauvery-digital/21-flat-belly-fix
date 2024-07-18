@@ -44,7 +44,7 @@ body
 	font-family: 'Montserrat', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
-	background: #FFFFFF;
+	background: #f1f1f1;
 	color: #000000;
 }
 div
@@ -1027,7 +1027,7 @@ section
 {
 	padding-top: 111px;
 	padding-bottom: 14px;
-	background: #FFFFFF;
+	background: none;
 }
 .services_row
 {
@@ -1282,7 +1282,7 @@ section
 	outline: none;
 	font-size: 16px;
 	font-weight: 700;
-	color: #FFFFFF;
+	color: #000000;
 	text-transform: uppercase;
 	cursor: pointer;
 }
@@ -1291,7 +1291,7 @@ section
 	padding-right: 15px;
 	font-size: 16px;
 	font-weight: 500;
-	color: #686868;
+	color: #000000;
 	line-height: 0.75;
 	margin-top: 33px;
 	margin-bottom: 20px;
@@ -1313,13 +1313,4 @@ section
 .footer_image img
 {
 	max-width: 100%;
-}
-
-.glassed-bg{
-background: rgba(88, 85, 85, 0.2);
-border-radius: 0px;
-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-backdrop-filter: blur(5px);
--webkit-backdrop-filter: blur(5px);
-border: 0px solid rgba(88, 85, 85, 0.3);
 }
