@@ -45,7 +45,7 @@ body
 	font-size: 16px;
 	font-weight: 400;
 	background: #FFFFFF;
-	color: #a5a5a5;
+	color: #000000;
 }
 div
 {
@@ -65,8 +65,8 @@ p
 	font-family: 'Montserrat', sans-serif;
 	font-size: 16px;
 	line-height: 2;
-	font-weight: 400;
-	color: #535353;
+	font-weight: 600;
+	color: #000000;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
@@ -285,7 +285,7 @@ section
 	line-height: 43px;
 	font-size: 16px;
 	font-weight: 500;
-	color: #fff;
+	color: #000000;
 	z-index: 1;
 }
 .button a::before
@@ -325,7 +325,7 @@ section
 {
 	font-size: 72px;
 	font-weight: 400;
-	color: #262626;
+	color: #000000;
 	line-height: 1.1;
 	margin-top: 3px;
 }
@@ -368,7 +368,7 @@ section
 	left: 0;
 	width: 100%;
 	border-bottom: solid 1px #FFFFFF;
-	background: #262626;
+	background: #000000;
 	z-index: 100;
 }
 .header_content
@@ -714,7 +714,7 @@ section
 }
 .box:first-child
 {
-	background: #262626;
+	background: #000000;
 }
 .box:nth-child(2)
 {
@@ -748,6 +748,22 @@ section
 .box_text p
 {
 	color: #FFFFFF;
+}
+.box_title2
+{
+	font-size: 24px;
+	font-weight: 400;
+	color: #000000;
+	line-height: 1.2;
+	margin-top: 27px;
+}
+.box_text2
+{
+	margin-top: 20px;
+}
+.box_text2 p
+{
+	color: #000000;
 }
 .box_link_container
 {
@@ -853,7 +869,7 @@ section
 {
 	font-size: 16px;
 	font-weight: 600;
-	color: #535353;
+	color: #000000;
 	line-height: 1.75;
 	margin-top: 35px;
 }
@@ -1034,8 +1050,8 @@ section
 {
 	padding-left: 37px;
 	font-size: 24px;
-	font-weight: 400;
-	color: #262626;
+	font-weight: 600;
+	color: #000000;
 }
 .service_text
 {
@@ -1154,7 +1170,7 @@ section
 {
 	display: block;
 	width: 100%;
-	background: #262626;
+	background: #000000;
 	padding-top: 96px;
 	border-top: solid 1px #88591d;
 	padding-bottom: 20px;
