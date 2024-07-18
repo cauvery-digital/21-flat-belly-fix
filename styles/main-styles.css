@@ -714,7 +714,7 @@ section
 }
 .box:first-child
 {
-	background: #000000;
+	background: orangered;
 }
 .box:nth-child(2)
 {
@@ -737,7 +737,7 @@ section
 {
 	font-size: 24px;
 	font-weight: 400;
-	color: #fff;
+	color: #000000;
 	line-height: 1.2;
 	margin-top: 27px;
 }
@@ -747,7 +747,7 @@ section
 }
 .box_text p
 {
-	color: #FFFFFF;
+	color: #000000;
 }
 .box_title2
 {
