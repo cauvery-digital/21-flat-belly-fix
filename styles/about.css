@@ -10,9 +10,13 @@
 3. Header
 4. Menu
 5. Home
-6. About
-7. Team
-8. Footer
+6. Boxes
+7. About
+8. Testimonials
+9. Gallery
+10. Services
+11. Blog
+12. Footer
 
 
 ******************************/
@@ -21,8 +25,7 @@
 1. Fonts
 ***********/
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700|Allerta+Stencil');
-
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700'); 
 /*********************************
 2. Body and some general stuff
 *********************************/
@@ -41,7 +44,7 @@ body
 	font-size: 16px;
 	font-weight: 400;
 	background: #FFFFFF;
-	color: #a5a5a5;
+	color: #000000;
 }
 div
 {
@@ -62,7 +65,7 @@ p
 	font-size: 16px;
 	line-height: 2;
 	font-weight: 400;
-	color: #535353;
+	color: #000000;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
@@ -143,6 +146,7 @@ h6::selection
 {
 	
 }
+
 .form-control
 {
 	color: #db5246;
@@ -316,13 +320,12 @@ section
 	font-weight: 600;
 	text-transform: uppercase;
 	color: #000000;
-	line-height: 0.75;
 }
 .section_title
 {
 	font-size: 72px;
 	font-weight: 400;
-	color: #262626;
+	color: #000000;
 	line-height: 1.1;
 	margin-top: 3px;
 }
@@ -365,7 +368,7 @@ section
 	left: 0;
 	width: 100%;
 	border-bottom: solid 1px #FFFFFF;
-	background: #262626;
+	background: #000000;
 	z-index: 100;
 }
 .header_content
@@ -711,7 +714,7 @@ section
 {
 	font-size: 16px;
 	font-weight: 600;
-	color: #535353;
+	color: #000000;
 	line-height: 1.75;
 	margin-top: 35px;
 }
@@ -838,7 +841,7 @@ section
 {
 	top: 37px !important;
 	line-height: 0.75 !important;
-	font-size: 14px !important;
+	font-size: 16px !important;
 	font-weight: 600 !important;
 	color: #262626 !important;
 }
@@ -952,7 +955,7 @@ section
 }
 .newsletter_input::-webkit-input-placeholder
 {
-	font-size: 12px !important;
+	font-size: 16px !important;
 	font-weight: 400 !important;
 	font-style: italic;
 	color: rgba(255,255,255,0.48) !important;
