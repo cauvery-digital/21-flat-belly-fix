@@ -776,15 +776,15 @@ section
 }
 .team_name a
 {
-	font-size: 16px;
-	font-weight: 500;
-	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+	color: #000000;
 }
 .team_title
 {
-	font-size: 10px;
-	font-weight: 400;
-	color: #FFFFFF;
+	font-size: 16px;
+	font-weight: 500;
+	color: #000000;
 	text-transform: uppercase;
 	margin-top: 3px;
 }
